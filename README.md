@@ -6,6 +6,6 @@ student details enables user to
 -> display the list of schools in the database
 
 Project created by:
-Varshini BS
+Varshini BS,
 Sneha Praveen 
 BIT CSE 4C
