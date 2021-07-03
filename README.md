@@ -8,6 +8,6 @@ student details enables user to
 To run the application open localhost:8888 on your browser.
 
 Project created by:
-Varshini BS,
+Varshini B S,
 Sneha Praveen,
 BIT CSE 4C
