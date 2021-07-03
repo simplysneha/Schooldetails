@@ -7,5 +7,5 @@ student details enables user to
 
 Project created by:
 Varshini BS,
-Sneha Praveen 
+Sneha Praveen,
 BIT CSE 4C
